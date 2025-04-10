@@ -7,7 +7,7 @@ import HashLoader from "react-spinners/HashLoader";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "../styles/Find.css"; 
-import { blue } from "@mui/material/colors";
+
 
 function Find() {
   const [item, setItem] = useState([]);
